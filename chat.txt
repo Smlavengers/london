@@ -1,0 +1,14 @@
+12:13:40	 From  M MUNIRAJA : vi filename
+12:16:49	 From  M MUNIRAJA : :wq
+12:19:35	 From  M MUNIRAJA : :set number
+12:21:24	 From  M MUNIRAJA : :3
+12:21:28	 From  M MUNIRAJA : :10
+12:22:08	 From  M MUNIRAJA : shift + g
+12:22:21	 From  M MUNIRAJA : gg
+12:23:17	 From  M MUNIRAJA : dd
+12:23:38	 From  M MUNIRAJA : 3dd
+12:24:03	 From  M MUNIRAJA : u
+12:24:18	 From  M MUNIRAJA : ctrl + r
+12:25:16	 From  M MUNIRAJA : /word
+12:28:37	 From  Mahendra Reddy Kante : :/bro
+12:28:44	 From  Mahendra Reddy Kante : /bro
